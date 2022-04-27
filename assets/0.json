@@ -1,6 +1,6 @@
 {
-    "name": "Celestial",
-    "symbol": "CEL",
+    "name": "Yeye",
+    "symbol": "YE",
     "image": "0.png",
     "properties": {
         "files": [
@@ -11,7 +11,7 @@
         ],
         "creators": [
             {
-                "address": "13Y3UL618NFPrF1Z94PWSNEJ2fGbeRt52AjzEtCZy8Vr",
+                "address": "Hb159Hk5dbyHq9vDBNSS17J35Y2dYhnKwbdvdtmtnUiL",
                 "share": 100
             }
         ]
