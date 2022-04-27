@@ -1,0 +1,32 @@
+{
+  "program": {
+    "uuid": "HnPwhh",
+    "candyMachine": "HnPwhhYE6B3uCmrn28srNdq9mbVfkwLeSGBf9gnoGe4V",
+    "collection": "9kK3PJWSSdvuXBXLYh3r4XTFv1BkS79xpmkjuhtci3wC"
+  },
+  "items": {
+    "0": {
+      "link": "https://bafkreigtuvamy7ijzfv2gbcuwh4itovyqbfsafb7mtshb5kmxkgg3u6a2y.ipfs.nftstorage.link",
+      "imageLink": "https://bafybeigu6o4nu4c2qvppbl4qv7ajyln36u7y7hdfyzlvbixuayocutjzze.ipfs.nftstorage.link?ext=png",
+      "name": "Celestial",
+      "onChain": true,
+      "verifyRun": true
+    },
+    "1": {
+      "link": "https://bafkreicauceuy4i25z2gqi2lurujm7dgvufykefvi2ymkaiz44raiylgja.ipfs.nftstorage.link",
+      "imageLink": "https://bafybeifdwwzxkbt75o5qd34crme4nujakyyg62rtogpl5mvq5t4fgh7mle.ipfs.nftstorage.link?ext=png",
+      "name": "Safari",
+      "onChain": true,
+      "verifyRun": true
+    },
+    "2": {
+      "link": "https://bafkreifzj2thw2e3nfpoywqdiyfe4kw7yjdli3drnczakb4bjcnrxccrma.ipfs.nftstorage.link",
+      "imageLink": "https://bafybeic6fgys4znjycsysfksxniyfwmbj6se7dtouzcabxkndtfnairqtq.ipfs.nftstorage.link?ext=png",
+      "name": "Julia",
+      "onChain": true,
+      "verifyRun": true
+    }
+  },
+  "env": "devnet",
+  "cacheName": "temp"
+}

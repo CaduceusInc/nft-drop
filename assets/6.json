@@ -1,0 +1,20 @@
+{
+    "name": "Dunsi Love 2",
+    "symbol": "DL2",
+    "image": "3.jpeg",
+    "properties": {
+      "files": [
+        {
+          "uri": "3.jpeg",
+          "type": "image/jpeg"
+        }
+      ],
+      "creators": [
+        {
+          "address": "2P1x9g63CQ7KCi7UkthAw3gGGajSaQyDSAQ9syqtNqA1",
+          "share": 100
+        }
+      ]
+    }
+  }
+  

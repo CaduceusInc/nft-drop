@@ -1,0 +1,20 @@
+{
+    "name": "Turtle Love",
+    "symbol": "TL",
+    "image": "1.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "2P1x9g63CQ7KCi7UkthAw3gGGajSaQyDSAQ9syqtNqA1",
+          "share": 100
+        }
+      ]
+    }
+  }
+  

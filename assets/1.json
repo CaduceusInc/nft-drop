@@ -1,0 +1,19 @@
+{
+    "name": "Safari",
+    "symbol": "SAF",
+    "image": "1.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "1.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": [
+            {
+                "address": "13Y3UL618NFPrF1Z94PWSNEJ2fGbeRt52AjzEtCZy8Vr",
+                "share": 100
+            }
+        ]
+    }
+}
